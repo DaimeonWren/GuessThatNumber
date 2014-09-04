@@ -1,0 +1,5 @@
+c:\users\technologist sp\documents\GitHub\GuessThatNumber\GTN2\GTN2\bin\Debug\GTN2.exe.config
+c:\users\technologist sp\documents\GitHub\GuessThatNumber\GTN2\GTN2\bin\Debug\GTN2.exe
+c:\users\technologist sp\documents\GitHub\GuessThatNumber\GTN2\GTN2\bin\Debug\GTN2.pdb
+c:\users\technologist sp\documents\GitHub\GuessThatNumber\GTN2\GTN2\obj\Debug\GTN2.exe
+c:\users\technologist sp\documents\GitHub\GuessThatNumber\GTN2\GTN2\obj\Debug\GTN2.pdb
